@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import datetime
 
-DB_FILE = "/app/data/database.db
+DB_FILE = "/app/data/database.db"
 
 
 def _get_conn():
